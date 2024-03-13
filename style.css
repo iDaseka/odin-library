@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+button{
+    border: 0.1vh solid black;
+    height: 4vh;
+    border-radius: 1vh;
+    align-self: center;
+}
+
+#container{
+    backdrop-filter: blur(55px);
+    text-align: center;
+
+}
+
+div{
+    padding: 0.5vh;
+}
+
+ul{
+    text-decoration: none;
+}
